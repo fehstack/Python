@@ -2,7 +2,7 @@
 
 Este repositório é um guia pessoal para aprender Python, cobrindo desde os conceitos básicos até tópicos mais avançados. Seja bem-vindo ao seu próprio espaço de aprendizado!
 
-## Conteúdo
+## Conteúdos
 
 1. **Introdução à Programação com Python**
    - Conceitos básicos de programação

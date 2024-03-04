@@ -49,7 +49,7 @@ class Pessoa:
 
 # Exemplo de uso:
 usuario = Pessoa("Felipe", 15, "EDF")
-print(usuario)  # Saída: Felipe, 15, Eletricista
+print(usuario)  
 usuario.aniversario()
-print(usuario)  # Saída: Felipe, 16, Eletricista
-print(usuario.saudacao)  # Saída: Bem-vindo, profissional de Eletricista!
+print(usuario)  
+print(usuario.saudacao)  
